@@ -8,6 +8,7 @@ module.exports = {
       green: '#C9F299',
       angular: '#DD003B',
       bodycolor: '#99A7B9',
+      conclusion: '#102B3F'
     },
 
   },
