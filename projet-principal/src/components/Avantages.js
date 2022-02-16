@@ -3,7 +3,7 @@ import React from 'react';
 const Avantages = () => {
     return (
         <div className='Avantages'>
-            <h2 className=' text-center '> <span className='text-lime-300'>Avantages</span> et <span class='text-red-500'>inconvénient</span></h2>
+            <h2 className=' text-center text-react '>Avantages et inconvénient</h2>
             <div class="grid grid-cols-3 gap-4">
                 <div class="...">01</div>
                 <div class="...">02</div>
