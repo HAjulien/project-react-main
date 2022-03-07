@@ -10,7 +10,7 @@ module.exports = {
       angular: '#DD003B',
       bodycolor: '#99A7B9',
       conclusion: '#102B3F',
-      cadre: '#f8f8f850'
+      cadre: '#f8f8f850',
     },
 
   },
