@@ -6,7 +6,7 @@ const Avantages = () => {
             <h2 className=' text-center text-4xl mb-16'>Avantages et inconvénient</h2>
             <div class="grid grid-cols-6 grid-rows-7 gap-4 flex	justify-center ">
                 
-                <div class="col-start-3 col-end-5 row-start-1 mb-3 flex justify-center  ">
+             <div class="col-start-3 col-end-5 row-start-1 mb-3 flex justify-center  ">
                    <p className=' text-2xl bg-green p-0.5 rounded-tl-lg rounded-lg flex justify-center  min-w-[180px] pb-2'> Avantages</p>
                 </div>
                 <div class="col-start-2 col-end-4 row-start-4 flex justify-end mr-4	">
